@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Abdullah Tarek
 
-![My Photo]((https://github.com/abdullah-tarek-dev/abdullah-tarek-dev/blob/main/image.jpg))
+![My Photo](https://github.com/abdullah-tarek-dev/abdullah-tarek-dev/blob/main/image.jpg)
 
 ## 🌟 About Me
 - 🎓 **Software Engineering Student** at Al-Azhar University (Department of Systems and Information).
@@ -39,31 +39,4 @@
 
 ---
 
----
 
-## 🚀 Installation and Usage
-
-### Local Installation:
-1. Clone the repository:  
-   `git clone https://github.com/abdullah-tarek-dev/your-repository-name.git`
-2. Navigate to the project directory:  
-   `cd your-repository-name`
-3. Install dependencies:  
-   `npm install`
-4. Run the app locally:  
-   `npm start`
-
-### Example Usage:
-```javascript
-import React from 'react';
-
-function App() {
-  return (
-    <div className="App">
-      <h1>Welcome to My Project</h1>
-      <p>This is an example usage of the project.</p>
-    </div>
-  );
-}
-
-export default App;
