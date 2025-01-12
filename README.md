@@ -1,5 +1,7 @@
 # 👋 Hi, I’m Abdullah Tarek
 
+![My Photo](https://github.com/abdullah-tarek-dev/abdullah-tarek-dev/blob/main/readimage.jpg)
+
 ## 🌟 About Me
 - 🎓 **Software Engineering Student** at Al-Azhar University (Department of Systems and Information).
 - 💻 Passionate **Front-End Developer** with experience in **HTML**, **CSS**, **JavaScript**, **Bootstrap**, **Tailwind CSS**, and **React.js**.
@@ -36,8 +38,6 @@
 - 🎨 Enjoy designing clean and user-friendly interfaces.
 
 ---
-
-![My Photo](https://github.com/abdullah-tarek-dev/abdullah-tarek-dev/blob/main/readimage.jpg)
 
 ---
 
