@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Abdullah Tarek
 
-![My Photo](https://github.com/abdullah-tarek-dev/abdullah-tarek-dev/blob/main/readimage.jpg)
+![My Photo]((https://github.com/abdullah-tarek-dev/abdullah-tarek-dev/blob/main/image.jpg))
 
 ## 🌟 About Me
 - 🎓 **Software Engineering Student** at Al-Azhar University (Department of Systems and Information).
