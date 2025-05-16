@@ -35,7 +35,7 @@
 ---
 
 ## 📫 Connect with Me
-- 📧 **Email**: [engabdullahtarekdarwish@gmail.com](mailto:engabdullahtarekdarwish@gmail.com)
+- 📧 Email: abdullahtarekabdullah3030@gmail.com
 - 🌐 **GitHub**: [@abdullah-tarek-dev](https://github.com/abdullah-tarek-dev)
 - 💼 **LinkedIn**: [Abdullah Tarek](https://www.linkedin.com/in/abdullah-tarek-946aa6335?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 📘 **Facebook**: [Abdullah Tarek](https://www.facebook.com/profile.php?id=61565379813656&mibextid=ZbWKwL)
